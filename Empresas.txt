@@ -1,0 +1,8 @@
+Lista de empresas:
+1- Apple
+2- Microsoft
+3- NVIDIA
+4- Meta
+5- Amazon
+6- Alphabet
+7- Tesla
