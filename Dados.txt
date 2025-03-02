@@ -1,5 +1,13 @@
+Lista de nomes:
 1- Euclides
 2- Ana
 3- Carla
 4- Mateus
 5- Ricardo
+
+Lista de cidades:
+1- Braga
+2- Leiria
+3- Porto
+4- Lisboa
+5- Covilhã
