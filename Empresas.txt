@@ -6,3 +6,4 @@ Lista de empresas:
 5- Amazon
 6- Alphabet
 7- Tesla
+8- Oracle
